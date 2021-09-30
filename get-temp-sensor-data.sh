@@ -1,0 +1,1 @@
+curl http://{{hub-ip}}/api/{{key}}/sensors/2
